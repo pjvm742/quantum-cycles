@@ -5,8 +5,8 @@ This is code I have written for my bachelor's thesis, which is about the use of 
 
 ## Copyright
 The code is licensed to you under the "BSD 3-Clause" license, which is reproduced in the LICENSE file.
-The choice of license is more or less forced: in order to have access to free time on D-Wave's quantum computers, I have to release all code I create for using those computers under a permissive software licenses.
-However, I think a permissive license is suitable for this project (hardly any risk of proprietary derivatives harming individuals; fragmentation not considered important, so getting code back not important), so it's not a problem and I use the same license for the parts of the code that do not fall under this requirement.
+The choice of license is more or less forced: in order to have access to free time on D-Wave's quantum computers, I have to release all code I create for using those computers under a permissive software license.
+However, I think a permissive license is suitable for this project (hardly any risk of proprietary derivatives harming individuals; fragmentation not considered important, so getting code back not crucial), so it's not a problem and I use the same license for the parts of the code that do not fall under this requirement.
 I will note that D-Wave, in their terms & conditions, uses "Open Source License" to mean only a few licenses of their choice, which is misleading.
 
 ## Contributing
@@ -26,7 +26,7 @@ In providing this contribution, I give a guarantee that
 
 and
 
-	3) I do indeed release the contribution under the applicable public license(s) used by the project and I agree that the project's way of crediting contributors is sufficient
+	3) I do indeed release the contribution under the applicable public license(s) used by the project and I agree that the project's way of crediting me is sufficient
 	4) I give permission for the relevant information about the contribution, which includes the name and e-mail address I have provided and a copy of my affirmation of this statement, to be stored publicly and spread, indefinitely
 "
 
